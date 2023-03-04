@@ -1,0 +1,11 @@
+{
+  "name": "cygha-live",
+  "version": "1.0.0",
+  "description": "E2E training",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Sylvain Viole",
+  "license": "MIT"
+}
